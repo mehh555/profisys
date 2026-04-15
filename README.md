@@ -39,7 +39,3 @@ Starts on `http://localhost:5173`.
 ## Tech Stack
 
 ASP.NET Core 8 · EF Core · SQLite · CsvHelper · React 18 · TypeScript · Ant Design · Vite
-
-
-```
-
